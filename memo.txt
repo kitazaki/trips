@@ -1,0 +1,12 @@
+# to add new file to git
+git add test_20161115.txt 
+
+# to commit new file to git with any comment
+git commit -am "test"
+
+# to show status
+git status
+
+# to push local to remote(origin) (ID:kitazaki@gmail.com PW:feverpo3)
+git push origin master
+
